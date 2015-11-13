@@ -1,2 +1,0 @@
-thrd
- test file
